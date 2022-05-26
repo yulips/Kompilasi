@@ -1,0 +1,4 @@
+a = 10
+b = "Benar"
+s = "Salah"
+menawa a == 5 mula nyetak b liyane nyetak s

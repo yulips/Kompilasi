@@ -1,0 +1,8 @@
+# Contoh operasi perulangan for
+
+kanggo i=0 nganti 5 mula nyetak i
+
+nyetak "utawa iso kayak ngene"
+
+a=5
+kanggo i=0 nganti 5 mula nyetak a+i
