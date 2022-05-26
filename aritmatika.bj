@@ -1,0 +1,30 @@
+# Contoh operasi aritmatika
+
+# Penjumlahan
+102+34
+
+# Pengurangan
+100-98
+
+# Perkalian
+35*22
+
+# Pembagian
+60/2
+
+nyetak "utawane deklarasike variabel ndisek"
+
+a=45
+b=3
+
+# Penjumlahan
+nyetak a+b
+
+# Pengurangan
+nyetak a-b
+
+# Perkalian
+nyetak a*b
+
+# Pembagian
+nyetak a/b
